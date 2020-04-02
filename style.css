@@ -1,0 +1,166 @@
+body {
+    background-image: url(https://static.tildacdn.com/tild6362-6530-4364-b233-363337343236/emile-perron-190221-.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: blanchedalmond;
+}
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0; 
+}
+.menu a { 
+    display: inline-block;
+    font-family: sans-serif;
+    color: #ffffff;
+    padding: 12px 35px;
+    font-size: 25px;
+}
+.menu li { 
+    display: inline;
+}
+h1 {
+    padding: 5px;
+}
+.form-signin {
+    max-width: 400px;
+    padding: 7px;
+    margin: 7 auto;
+}
+.OUT {
+  border-radius: 10px;
+  color: #EC4D3C;
+  background-color: white;
+  background-image: -webkit-radial-gradient(#FCD2D1 2px, rgba(255,0,0,0) 2px);
+  background-image: -o-radial-gradient(#FCD2D1 2px, rgba(255,0,0,0) 2px);
+  background-image: radial-gradient(#FCD2D1 2px, transparent 2px);
+  background-size: 12px 12px;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+}
+.info {
+  padding-left: 40px;
+}
+.line {
+                display: flex;
+                width: 100%;
+                justify-content: space-around;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            .arrow{
+                position: relative;
+                width: 50px;
+                top: 150px;
+                height: 50px;
+                background-color: purple;
+            }
+            .block {
+                width: 180px;
+                margin:10px;
+                height: 180px;
+                border-radius: 8px 8px 8px 8px;
+            }
+            .center {
+                display: flex;
+                justify-content: space-around;
+                width: 100%;
+            }    
+            
+            .big-block {
+                width: 300px;
+                height: 300px;
+                border-radius: 8px 8px 8px 8px;
+            }
+            .php{
+                background-color:rgb()
+            }
+            .ico{
+                position: absolute;
+                left: 590px;
+                top: 60px;
+            }
+            .text-ico{
+                position: absolute;
+                text-align: center;
+                font: 36pt corbel;
+                color: white;
+                left: 530px;
+                top: 190px;
+                width: 205px;
+            }
+            .text-ico2{
+                position: absolute;
+                text-align: center;
+                font: 14pt corbel;
+                color: white;
+                left: 530px;
+                top: 250px;
+                width: 205px;
+            }
+            .top{
+                border: 0px ridge black;
+                position: absolute;
+                display: flex;
+                justify-content:space-around;
+                width: 944px;
+                height: 65px;
+                background: rgb(223, 222, 222);
+                left:153px;
+                top: 316px;
+                padding:7px;
+            }
+            .button{
+                background: rgb(235, 235, 235);
+                padding: 20px;
+                font:14pt Microsoft YaHei Light;
+            }
+            .main{
+                background:rgb(228, 228, 228);
+                position: relative;
+                left:153px;
+                top: 395px;
+                width: 958px;
+                height: 1550px
+            }
+            .block1{
+                font:14pt Microsoft YaHei Light;
+                padding: 5%;
+            }
+            .block2{
+                
+                display: flex;
+                justify-content:space-around;
+            }
+            .block2-3{
+                font:13pt Microsoft YaHei Light;
+                padding: 5%; 
+                text-align: center;
+            }
+            .img{
+
+            }
+            .title{
+                font:25pt Microsoft YaHei Light;
+            }
+            .title2{
+                text-align: center;
+                font:25pt Microsoft YaHei Light;
+            }
+            .title3{
+                text-align: center;
+                font:15pt Microsoft YaHei Light;
+            }
+            .button1{
+                background: rgb(235, 235, 235);
+                padding: 10px;
+                width: 15%;
+                font:14pt Microsoft YaHei Light;
+            }
+            .void{
+                height: 100px;
+            }
